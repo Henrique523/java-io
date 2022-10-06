@@ -2,7 +2,7 @@ package br.com.alura.java.io.teste;
 
 import java.io.Serializable;
 
-public class Cliente implements Autenticavel, Serializable {
+public class Cliente implements Autenticavel,Serializable {
 
     public static final long serialVersionUID = 1L;
     private String nome;
